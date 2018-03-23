@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Git table" max_length="40" name="x_snc_testing_with_git_table" type="collection">
+        <element label="Git1" max_length="40" name="git1" type="string"/>
+    </element>
+</database>

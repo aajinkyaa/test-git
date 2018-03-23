@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Git table</name>
+        <order>100</order>
+        <roles>x_snc_testing_with.git_table_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2018-03-23 20:51:40</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!#/!!!/</sys_domain_path>
+        <sys_id>eb70759913495b00fe4abc622244b0a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Git table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="testing with git" source="x_snc_testing_with">9160f55913495b00fe4abc622244b0ac</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="testing with git">9160f55913495b00fe4abc622244b0ac</sys_scope>
+        <sys_update_name>sys_app_application_eb70759913495b00fe4abc622244b0a3</sys_update_name>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2018-03-23 20:51:40</sys_updated_on>
+        <title>Git table</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
